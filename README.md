@@ -1,1 +1,1 @@
-# python-exercise
+# 日更python练习，知识点
